@@ -20,6 +20,7 @@ public class Example {
         //other changes
         //again another changes
         //this is the branch
+        //modification
     }
     
 }
